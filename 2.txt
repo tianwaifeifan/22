@@ -46,9 +46,6 @@
         "token": "https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/tokenm.json",
         "share": "https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/sub/%E9%98%BF%E9%87%8C%E9%9B%86%E5%90%88.json"
       },
-      "style": {
-        "type": "list"
-      },
 {"key":"csp_Bttwoo","name":"✌比特","type":3,"api":"csp_Bttwoo","jar": "http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lib","name":"🔷LibVio","type":3,"api":"csp_Libvio","jar": "http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.pw/"},
 {"key":"csp_Kuaikan","name":"👀快看","type":3,"api":"csp_Kuaikan","jar": "http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar","searchable":1,"quickSearch":1,"filterable":1},
