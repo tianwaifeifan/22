@@ -53,7 +53,7 @@
 {"key":"PanSearch","name":"🙀盘搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 
 {"key":"Dovx","name":"😾七夜","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
-{"key":"AliShare","name":"🎈自用接口🎈","type":3,"api":"csp_PushShare","jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/f18ebbb5720df2cffcc507b4b52c200eb21f9670/pg.jar","searchable":1,
+{"key":"AliShare","name":"🎈阿里影视🎈","type":3,"api":"csp_PushShare","jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/f18ebbb5720df2cffcc507b4b52c200eb21f9670/pg.jar","searchable":1,
  "quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"style":{"type":"list","ratio":1.1},
  "ext":"https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/sub/tokenm.json$$$https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/sub/%E6%96%B0%E9%98%BF%E9%87%8C.txt$$$db$$$1"
 },
