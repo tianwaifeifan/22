@@ -30,7 +30,10 @@
 {"key":"csp_MLYS","name":"🐴毛驴","type":3,"api":"csp_MLYS","jar": "http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"ext":"https://www.maolvys.com/"},
 {"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","jar": "http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.80yy3.com/"},
 {"key":"csp_Kunyu77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","jar": "http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar","searchable":1,"quickSearch":1,"filterable":1},
-
+{"key":"AliShare","name":"🎈阿里影视🎈","type":3,"api":"csp_PushShare","jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/alantang1977/X/main/pg.jar","searchable":1,
+ "quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"style":{"type":"list","ratio":1.1},
+ "ext":"https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/sub/tokenm.json$$$https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/sub/%E6%96%B0%E9%98%BF%E9%87%8C.txt$$$db$$$1"
+},
 {"key":"csp_Bttwoo","name":"✌比特","type":3,"api":"csp_Bttwoo","jar": "http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lib","name":"🔷LibVio","type":3,"api":"csp_Libvio","jar": "http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.pw/"},
 {"key":"csp_Kuaikan","name":"👀快看","type":3,"api":"csp_Kuaikan","jar": "http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar","searchable":1,"quickSearch":1,"filterable":1},
