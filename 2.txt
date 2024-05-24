@@ -11,7 +11,7 @@
 {"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","jar": "http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {
       "key": "黑狐",
-      "name": "🦊┃黑狐┃影视",
+      "name": "🦊黑狐🦊",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -54,7 +54,7 @@
     },
     {
       "key": "csp_SC1080",
-      "name": "🏰┃圣城┃影视",
+      "name": "🏰圣城🏰",
       "type": 3,
       "api": "csp_SC1080",
       "jar": "https://mpimg.cn/down.php/85e832f30273e71868b241a45f4c7082.jar",
