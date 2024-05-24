@@ -75,7 +75,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6"
+            "jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/c633f12bd0181a355baa6a1fcf39e179622699be/danmu%20(1).jar",
         },
 {"key":"csp_NewCz","name":"🏭厂长","type":3,"api":"csp_NewCz","jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/8bdc6396fea3e291f9db53d16837fc84356926d1/Yoursmile.jar;md5;27DDD80A7C70167581F5BEDF1624BC6C","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://czzy.top/"},
 {"key":"csp_AppTT","name":"💥萌米","type":3,"api":"csp_AppTT","jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/8bdc6396fea3e291f9db53d16837fc84356926d1/Yoursmile.jar;md5;27DDD80A7C70167581F5BEDF1624BC6C","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Jqf5UgA7xXA6dVlLcc="},
