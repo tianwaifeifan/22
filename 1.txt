@@ -178,7 +178,7 @@
 			},
 			"jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/2254fd633f1739c25065a631b2031c315cd1fb96/XBPQ.jar;md5;409069d9ab72176bd95aa8b06e36512e"
 		},
-{"key":"csp_NewCz","name":"🏭厂长","type":3,"api":"csp_NewCz","jar": "http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://czzy.top/"},
+{"key":"csp_NewCz","name":"🏭厂长","type":3,"api":"csp_NewCz","jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/88d6cb96985d24ef0e3aa13d1f195b790798e1e7/Yoursmile.jar;md5;7b3b31e9271905fe9945BEDF1624BC6C","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://czzy.top/"},
 { "key": "Ikanbot", "name": "爱看机器人", "type": 3, "api": "csp_Ikanbot", "jar": "https://pan.shangui.cc/f/RMRNUz/pg.jar","searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.aikanbot.com$$$proxy"},
 {"key":"csp_AppTT","name":"💥萌米","type":3,"api":"csp_AppTT","jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/88d6cb96985d24ef0e3aa13d1f195b790798e1e7/Yoursmile.jar;md5;7b3b31e9271905fe9945BEDF1624BC6C","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Jqf5UgA7xXA6dVlLcc="},
 {"key": "视觉","name": "👓视觉┃直连","type": 3,"api": "csp_Xinsj","jar": "https://raw.gitcode.com/Tianwaifeifan/zyck/blobs/18b1d4daa681f0c3dd4bf6bf6d918a93a06b9321/fan.txt;md5;ff2a62d70456f5ccc45f5e17b24d4a45","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.80yy3.com/"},
