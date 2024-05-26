@@ -133,7 +133,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext": "https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/bttt.json",
-			"jar": "https://152.32.170.60/leevi/PiG/raw/branch/master/lib/XBPQ.jar"
+			"jar": "https://152.32.170.60/leevi/PiG/raw/branch/master/lib/XBPQ.jar",
 		},
 		{"key":"布谷tv",
 			"name":"🐦布谷|4K磁力|XBPQ",
