@@ -228,7 +228,7 @@
 			"changeable": 0,
 			"ext":"https://raw.gitcode.com/Tianwaifeifan/zyck/raw/master/tokenm.json"
 		},
-{"key": "评书","name": "📻BPQ┃评书","type": 3,"searchable": 0,"style": {"type": "rect","ratio": 1.597},"quickSearch": 0,"api": "csp_XBPQ","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar","ext": {"主页url": "https://www.psmp3.com","数组二次截取": "<ul id=\"post_list_box\">&&</ul","数组": "<li class=\"www_psmp3_com post_list_li\">&&</div>",
+{"key": "评书","name": "📻BPQ┃评书","type": 3,"searchable": 0,"style": {"type": "rect","ratio": 1.597},"quickSearch": 0,"api": "csp_XBPQ","jar": "https://152.32.170.60/leevi/PiG/raw/branch/master/lib/XBPQ.jar","ext": {"主页url": "https://www.psmp3.com","数组二次截取": "<ul id=\"post_list_box\">&&</ul","数组": "<li class=\"www_psmp3_com post_list_li\">&&</div>",
 				"图片": "https://bkimg.cdn.bcebos.com/pic/86d6277f9e2f07084e3cb402ee24b899a901f2f3",
 				"标题": "title=\"&&\"",
 				"副标题": ">&&</a",
