@@ -105,7 +105,7 @@
 		},
 		{
 			"key": "小白",
-			"name": "🧲 4小白磁力🧲 |XBPQ",
+			"name": "🇨🇳 4小白磁力 |XBPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"playerType": 1,
@@ -146,7 +146,7 @@
 		},
 {"key":"csp_TianTian","name":"🦉天天","type":3,"api":"csp_TianTian","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/Yoursmile.jar","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"热播","name":"🚀热播","type":3,"api":"csp_AppTT","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/Yoursmile.jar","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
-{"key":"csp_Xunlei8","name":"🧲迅雷吧","type":3,"api":"csp_Xunlei8","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/Yoursmile.jar","searchable":1,"quickSearch":1,"filterable":1},		
+{"key":"csp_Xunlei8","name":"🇨🇳迅雷吧","type":3,"api":"csp_Xunlei8","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/Yoursmile.jar","searchable":1,"quickSearch":1,"filterable":1},		
 {"key":"csp_NewCz","name":"🏭厂长","type":3,"api":"csp_NewCz","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/Yoursmile.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://czzy.top/"},
 {"key":"csp_AppTT","name":"💥萌米","type":3,"api":"csp_AppTT","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/Yoursmile.jar","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Jqf5UgA7xXA6dVlLcc="},
 {"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/Yoursmile.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.80yy3.com/"},
