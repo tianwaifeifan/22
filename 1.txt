@@ -262,13 +262,13 @@
 	}],
     "lives": [
     {
-      "name": "自用1",
+      "name": "电视1",
       "type": 0,
       "url": "https://raw.gitcode.com/Tianwaifeifan/sy/raw/main/1.txt",
       "playerType": 1
     },
     {
-      "name": "自用2",
+      "name": "电视2",
       "type": 0,
       "url": "https://www.huichunniao.cn/xh/lib/live.txt",
       "playerType": 1
