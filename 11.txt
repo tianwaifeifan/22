@@ -16,7 +16,12 @@
 🎈4K🎈,#genre#
 翡翠台4K,http://cdn.132.us.kg/live/fct4k/stream.m3u8
 CHC动作电影,http://61.138.167.36:9901/tsfile/live/1014_1.m3u8
-
+欢笑剧场4K,http://111.29.9.34:6610/000000001000/1/1.m3u8?stbId=1&livemode=1&IASHttpSessionId=OTT760920241110011719006907&channel-id=bestzb&Contentid=5000000007000010001
+CCTV1,http://223.105.252.60/PLTV/4/224/3221228581/index.m3u8?servicetype=1
+CCTV3,http://223.105.252.59/PLTV/4/224/3221228499/index.m3u8?servicetype=1
+CCTV5,http://223.105.252.61/PLTV/4/224/3221228502/index.m3u8?servicetype=1
+CCTV8,http://223.105.252.57/PLTV/3/224/3221228165/index.m3u8?servicetype=1
+CCTV4K,http://223.105.252.60/PLTV/4/224/3221228472/index.m3u8?servicetype=1
 🎈央视超清🎈,#genre#
 
 
