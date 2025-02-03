@@ -21,13 +21,8 @@ CHC家庭影院,http://180.213.174.225:9901/tsfile/live/1030_1.m3u8?key=txiptv&p
 CHC影迷电影,http://180.213.174.225:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC家庭影院,http://120.210.193.151:8006/120000001002/XMTjtyy/1.m3u8
 CHC高清电影,http://120.210.193.151:8006/120000001002/XMTgqdy/1.m3u8
-
 黑莓电影,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jdianying/1.m3u8
 黑莓动画,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/donghuawg/1.m3u8
-
-
-
-
 央视精品,http://120.210.193.151:8006/120000001002/XMTysjp/1.m3u8
 女性时尚,http://120.210.193.151:8006/120000001002/XMTnxss/1.m3u8
 兵器时代,http://120.210.193.151:8006/120000001002/XMTbqsd/1.m3u8
